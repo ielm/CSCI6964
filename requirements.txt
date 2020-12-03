@@ -1,0 +1,4 @@
+ black==20.8b1
+ nltk==3.5
+ gensim==3.8.3
+ h5py==3.1.0
